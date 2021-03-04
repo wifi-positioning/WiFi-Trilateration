@@ -7,7 +7,7 @@
 			"login" : "admin",
 			"password" : "Wepp@ssword",
 			"monitoring_interface" : "wlan0",
-			"radio_map" : "/home/areahon/SibSUTIS/WiFi-Tracking/data/maps/ap0_map.csv"
+			"radio_map" : "/home/doshchinsky/SibSUTIS/WiFi-Tracking/data/maps/ap0_map.csv"
 		},
 		{
 			"ip_address" : "192.168.44.46",
@@ -16,7 +16,7 @@
 			"login" : "admin",
 			"password" : "password",
 			"monitoring_interface" : "wlan0",
-			"radio_map" : "/home/areahon/SibSUTIS/WiFi-Tracking/data/maps/ap1_map.csv"
+			"radio_map" : "/home/doshchinsky/SibSUTIS/WiFi-Tracking/data/maps/ap1_map.csv"
 		},
 		{
 			"ip_address" : "192.168.44.194",
@@ -25,7 +25,7 @@
 			"login" : "admin",
 			"password" : "password",
 			"monitoring_interface" : "wlan0",
-			"radio_map" : "/home/areahon/SibSUTIS/WiFi-Tracking/data/maps/ap2_map.csv"
+			"radio_map" : "/home/doshchinsky/SibSUTIS/WiFi-Tracking/data/maps/ap2_map.csv"
 		},
 		{
 			"ip_address" : "192.168.44.82",
@@ -34,7 +34,7 @@
 			"login" : "admin",
 			"password" : "password",
 			"monitoring_interface" : "wlan0",
-			"radio_map" : "/home/areahon/SibSUTIS/WiFi-Tracking/data/maps/ap3_map.csv"
+			"radio_map" : "/home/doshchinsky/SibSUTIS/WiFi-Tracking/data/maps/ap3_map.csv"
 		},
 		{
 			"ip_address" : "192.168.44.81",
@@ -43,7 +43,7 @@
 			"login" : "admin",
 			"password" : "password",
 			"monitoring_interface" : "wlan0",
-			"radio_map" : "/home/areahon/SibSUTIS/WiFi-Tracking/data/maps/ap4_map.csv"
+			"radio_map" : "/home/doshchinsky/SibSUTIS/WiFi-Tracking/data/maps/ap4_map.csv"
 		},
 		{
 			"ip_address" : "192.168.40.30",
@@ -52,7 +52,7 @@
 			"login" : "admin",
 			"password" : "password",
 			"monitoring_interface" : "wlan0",
-			"radio_map" : "/home/areahon/SibSUTIS/WiFi-Tracking/data/maps/ap5_map.csv"
+			"radio_map" : "/home/doshchinsky/SibSUTIS/WiFi-Tracking/data/maps/ap5_map.csv"
 		},
 		{
 			"ip_address" : "192.168.40.31",
@@ -61,7 +61,7 @@
 			"login" : "admin",
 			"password" : "password",
 			"monitoring_interface" : "wlan0",
-			"radio_map" : "/home/areahon/SibSUTIS/WiFi-Tracking/data/maps/ap6_map.csv"
+			"radio_map" : "/home/doshchinsky/SibSUTIS/WiFi-Tracking/data/maps/ap6_map.csv"
 		},
 		{
 			"ip_address" : "192.168.44.84",
@@ -70,7 +70,7 @@
 			"login" : "admin",
 			"password" : "password",
 			"monitoring_interface" : "wlan0",
-			"radio_map" : "/home/areahon/SibSUTIS/WiFi-Tracking/data/maps/ap7_map.csv"
+			"radio_map" : "/home/doshchinsky/SibSUTIS/WiFi-Tracking/data/maps/ap7_map.csv"
 		},
 		{
 			"ip_address" : "192.168.44.171",
@@ -79,7 +79,7 @@
 			"login" : "admin",
 			"password" : "password",
 			"monitoring_interface" : "wlan0",
-			"radio_map" : "/home/areahon/SibSUTIS/WiFi-Tracking/data/maps/ap8_map.csv"
+			"radio_map" : "/home/doshchinsky/SibSUTIS/WiFi-Tracking/data/maps/ap8_map.csv"
 		},
 		{
 			"ip_address" : "192.168.44.172",
@@ -88,7 +88,7 @@
 			"login" : "admin",
 			"password" : "password",
 			"monitoring_interface" : "wlan0",
-			"radio_map" : "/home/areahon/SibSUTIS/WiFi-Tracking/data/maps/ap9_map.csv"
+			"radio_map" : "/home/doshchinsky/SibSUTIS/WiFi-Tracking/data/maps/ap9_map.csv"
 		},
 		{
 			"ip_address" : "192.168.44.133",
@@ -97,7 +97,7 @@
 			"login" : "admin",
 			"password" : "password",
 			"monitoring_interface" : "wlan0",
-			"radio_map" : "/home/areahon/SibSUTIS/WiFi-Tracking/data/maps/ap10_map.csv"
+			"radio_map" : "/home/doshchinsky/SibSUTIS/WiFi-Tracking/data/maps/ap10_map.csv"
 		},
 		{
 			"ip_address" : "192.168.44.95",
@@ -106,7 +106,7 @@
 			"login" : "admin",
 			"password" : "password",
 			"monitoring_interface" : "wlan0",
-			"radio_map" : "/home/areahon/SibSUTIS/WiFi-Tracking/data/maps/ap11_map.csv"
+			"radio_map" : "/home/doshchinsky/SibSUTIS/WiFi-Tracking/data/maps/ap11_map.csv"
 		},
 		{
 			"ip_address" : "192.168.44.89",
@@ -115,7 +115,7 @@
 			"login" : "admin",
 			"password" : "password",
 			"monitoring_interface" : "wlan0",
-			"radio_map" : "/home/areahon/SibSUTIS/WiFi-Tracking/data/maps/ap12_map.csv"
+			"radio_map" : "/home/doshchinsky/SibSUTIS/WiFi-Tracking/data/maps/ap12_map.csv"
 		},
 		{
 			"ip_address" : "192.168.44.87",
@@ -124,7 +124,7 @@
 			"login" : "admin",
 			"password" : "password",
 			"monitoring_interface" : "wlan0",
-			"radio_map" : "/home/areahon/SibSUTIS/WiFi-Tracking/data/maps/ap13_map.csv"
+			"radio_map" : "/home/doshchinsky/SibSUTIS/WiFi-Tracking/data/maps/ap13_map.csv"
 		},
 		{
 			"ip_address" : "192.168.44.90",
@@ -133,7 +133,7 @@
 			"login" : "admin",
 			"password" : "password",
 			"monitoring_interface" : "wlan0",
-			"radio_map" : "/home/areahon/SibSUTIS/WiFi-Tracking/data/maps/ap14_map.csv"
+			"radio_map" : "/home/doshchinsky/SibSUTIS/WiFi-Tracking/data/maps/ap14_map.csv"
 		},
 		{
 			"ip_address" : "192.168.44.88",
@@ -142,7 +142,7 @@
 			"login" : "admin",
 			"password" : "password",
 			"monitoring_interface" : "wlan0",
-			"radio_map" : "/home/areahon/SibSUTIS/WiFi-Tracking/data/maps/ap15_map.csv"
+			"radio_map" : "/home/doshchinsky/SibSUTIS/WiFi-Tracking/data/maps/ap15_map.csv"
 		}
 	],
 	"monitoring_properties" : {
