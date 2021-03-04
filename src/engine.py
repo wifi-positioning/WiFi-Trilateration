@@ -3,7 +3,7 @@ from multiprocessing import Queue
 from locator import Locator
 from time import sleep
 from paramiko import SSHClient, AutoAddPolicy
-from paramiko.ssh_exception import NoValidConnectionsError
+from paramiko.ssh_exception import NoValidConnectionsError, SSHException
 from socket import timeout
 
 class Engine:
@@ -22,7 +22,8 @@ class Engine:
 		try:
 			client.connect(hostname=ap["ip_address"], port=ap["ssh_port"],
 				           username=ap["login"], password=ap["password"], timeout=3)
-		except (NoValidConnectionsError, timeout):
+		except (NoValidConnectionsError, SSHException, timeout):
+			print(ap["ip_address"])
 			return ""
 		rssi_dump = [None for cnt in range(2)]
 		if ap["ap_type"] == 0:
